@@ -122,9 +122,9 @@ That means the profile is intentionally broad:
     height="350"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystalDustt-V2&layout=compact&hide_border=true&langs_count=8"
+    src="https://ghstats.dev/api/langs?username=CrystalDustt-V2&theme=midnight&max_langs=12"
     alt="CrystalDust V2 most used GitHub languages"
-    height="180"
+    height="350"
   />
 </p>
 

@@ -119,7 +119,7 @@ That means the profile is intentionally broad:
   <img
     src="https://ghstats.dev/api/card?username=CrystalDustt-V2&theme=midnight&border_radius=20"
     alt="CrystalDust V2 GitHub statistics"
-    height="380"
+    height="350"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystalDustt-V2&layout=compact&hide_border=true&langs_count=8"

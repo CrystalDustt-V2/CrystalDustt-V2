@@ -117,11 +117,6 @@ That means the profile is intentionally broad:
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=CrystalDustt-V2&theme=midnight&border_radius=20"
-    alt="CrystalDust V2 GitHub statistics"
-    height="350"
-  />
-  <img
     src="https://ghstats.dev/api/langs?username=CrystalDustt-V2&theme=midnight&max_langs=12"
     alt="CrystalDust V2 most used GitHub languages"
     height="350"
